@@ -43,9 +43,3 @@ A suite of machine learning models predicts obesity trends:
 - **Intervention Prioritization**: Identifies high-risk zones and demographics for resource allocation.
 - **Policy Simulation**: Models the potential impact of initiatives like improved food access or exercise programs.
 
-## Limitations ⚠️
-- Model performance varies across age groups (e.g., lower R² for some targets).
-- Regional disparities may reflect data gaps or unmodeled local factors.
-
-## Conclusion 🌟
-This data-driven framework provides the CDC with a decision-support tool to combat obesity proactively, targeting vulnerable groups and optimizing public health strategies based on age- and state-specific insights.
